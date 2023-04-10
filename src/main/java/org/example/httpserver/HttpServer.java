@@ -1,8 +1,8 @@
-package org.example.http;
+package org.example.httpserver;
 
-import org.example.http.config.Configuration;
-import org.example.http.config.ConfigurationManager;
-import org.example.http.core.ServerListenerThread;
+import org.example.httpserver.config.Configuration;
+import org.example.httpserver.config.ConfigurationManager;
+import org.example.httpserver.core.ServerListenerThread;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import java.io.IOException;

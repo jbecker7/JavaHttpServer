@@ -1,8 +1,8 @@
-package org.example.http.config;
+package org.example.httpserver.config;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
-import org.example.http.util.Json;
+import org.example.httpserver.util.Json;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

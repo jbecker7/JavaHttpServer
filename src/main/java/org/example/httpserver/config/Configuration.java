@@ -1,4 +1,4 @@
-package org.example.http.config;
+package org.example.httpserver.config;
 
 public class Configuration {
 
