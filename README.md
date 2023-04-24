@@ -48,3 +48,7 @@ While working on this project, I found it useful to consult the following RFCs f
 ## Disclaimer
 
 This is a simple server intended for testing and educational purposes only. It is not suitable for production use.
+
+## Thank You!
+
+I completed this project for Harvey Mudd College's CSCI 189 (Programming Practicum) and would like to thank Prof. Dodds and the college for providing me with the opportunity to work on this project.
